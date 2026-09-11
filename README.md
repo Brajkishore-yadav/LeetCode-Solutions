@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

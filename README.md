@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

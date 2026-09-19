@@ -4,32 +4,40 @@ public:
         if (head == NULL || head->next == NULL)
             return;
 
-        ListNode* left = head;
+        vector<ListNode*> nodes;
 
-        while (left != NULL && left->next != NULL) {
+        ListNode* temp = head;
 
-            // Last node find karo
-            ListNode* right = head;
-            ListNode* temp = NULL;
+        // Saare nodes store karo
+        while (temp != NULL) {
+            nodes.push_back(temp);
+            temp = temp->next;
+        }
 
-            while (right->next != NULL) {
-                temp = right;
-                right = right->next;
-            }
+        int left = 0;
+        int right = nodes.size() - 1;
 
-            // Agar left aur last adjacent hain
-            if (left == right || left->next == right)
+        // Teri approach:
+        // left -> left side se
+        // right -> last side se
+        while (left < right) {
+
+            // left ke baad right lagao
+            nodes[left]->next = nodes[right];
+
+            left++;
+
+            // Agar cross ho gaye
+            if (left == right)
                 break;
 
-            // Last node ko remove karo
-            temp->next = NULL;
+            // right ke baad next left lagao
+            nodes[right]->next = nodes[left];
 
-            // Last node ko left ke baad insert karo
-            right->next = left->next;
-            left->next = right;
-
-            // Next node par move karo
-            left = right->next;
+            right--;
         }
+
+        // Last node ka next NULL
+        nodes[left]->next = NULL;
     }
 };

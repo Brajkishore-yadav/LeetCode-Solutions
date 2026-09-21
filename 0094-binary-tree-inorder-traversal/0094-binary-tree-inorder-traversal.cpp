@@ -11,19 +11,27 @@
  */
 class Solution {
 public:
-    vector<int> inorderTraversal(TreeNode* root) {
+
+    void inorder(TreeNode* root, vector<int>& ans) {
+
         if (root == NULL)
-            return {};
+            return;
+
+        // Pehle left subtree
+        inorder(root->left, ans);
+
+        // Phir root
+        ans.push_back(root->val);
+
+        // Phir right subtree
+        inorder(root->right, ans);
+    }
+
+    vector<int> inorderTraversal(TreeNode* root) {
 
         vector<int> ans;
 
-        vector<int> left = inorderTraversal(root->left);
-        ans.insert(ans.end(), left.begin(), left.end());
-
-        ans.push_back(root->val);
-
-        vector<int> right = inorderTraversal(root->right);
-        ans.insert(ans.end(), right.begin(), right.end());
+        inorder(root, ans);
 
         return ans;
     }

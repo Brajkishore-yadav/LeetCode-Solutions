@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0424-longest-repeating-character-replacement](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Brajkishore-yadav/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search
